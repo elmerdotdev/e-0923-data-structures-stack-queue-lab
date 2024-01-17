@@ -3,7 +3,7 @@
 
 const Queue = require('./Queue')
 
-function reverseFirstTwoElements() {
+function reverseFirstTwoElements(queue) {
   // Your code here
 
 }

@@ -3,7 +3,7 @@
 
 const Stack = require('./Stack')
 
-function reverseFirstTwoElements() {
+function reverseFirstTwoElements(stack) {
   // Your code here
 }
 

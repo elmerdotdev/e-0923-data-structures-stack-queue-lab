@@ -3,7 +3,7 @@
 
 const Queue = require('./Queue')
 
-function reverseLastTwoElements() {
+function reverseLastTwoElements(queue) {
   // Your code here
 
 }
